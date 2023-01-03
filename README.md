@@ -1,0 +1,3 @@
+# pluralsight-javascript
+
+Demo exercises
