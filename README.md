@@ -1,3 +1,3 @@
 # pluralsight-javascript
 
-Demo exercises from Pluralsight
+Demo exercises from Pluralsight - 'Javascript- Getting Started'
