@@ -1,3 +1,3 @@
 # pluralsight-javascript
 
-Demo exercises
+Demo exercises from Pluralsight
